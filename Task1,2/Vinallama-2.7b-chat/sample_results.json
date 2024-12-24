@@ -1,0 +1,15 @@
+{
+    "question": "Quốc hội hết nhiệm kỳ thì Chủ tịch nước do Quốc hội bầu có phải tiếp tục thực hiện nhiệm vụ hay không?",
+    "prompt": "Quốc hội hết nhiệm kỳ thì Chủ tịch nước do Quốc hội bầu có phải tiếp tục thực hiện nhiệm vụ hay không? Câu trả lời cần ở dạng JSON, với khóa DOCUMENT chỉ loại văn bản pháp luật, NUMBER chỉ số liệu của văn bản đó, CHAPTER chỉ chương, SECTION chỉ mục, SUBSECTION chỉ tiểu mục, ARTICLE chỉ điều, CLAUSE chỉ khoản.",
+    "is_response_in_json": false,
+    "response": "Quốc hội hết nhiệm kỳ thì Chủ tịch nước do Quốc hội bầu có phải tiếp tục thực hiện nhiệm vụ hay không? Câu trả lời cần ở dạng JSON, với khóa DOCUMENT chỉ loại văn bản pháp luật, NUMBER chỉ số liệu của văn bản đó, CHAPTER chỉ chương, SECTION chỉ mục, SUBSECTION chỉ tiểu mục, ARTICLE chỉ điều, CLAUSE chỉ khoản.\nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản pháp lý: \nDưới đây là văn bản",
+    "reference": [
+        {
+            "document": "hiến pháp 2013",
+            "number": "Khongso",
+            "type": "Hiến pháp",
+            "article": null,
+            "clause": null
+        }
+    ]
+}
